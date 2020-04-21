@@ -1,0 +1,32 @@
+Estándar de entregas
+
+Sistema de gestión
+
+IMPORTANTE. Para entregar todos los obligatorios los estudiantes deben estar inscriptos y formar un equipo en el sistema de gestión de la Universidad. Antes de la fecha de cierre se debe subir un archivo al sistema. Si no se cumple con estos requisitos administrativos no se puede corregir el obligatorio.
+
+Repositorio Git
+
+Todos los elementos del proyecto deben estar contenidos en un repositorio Git. El historial de versiones de cada elemento de la configuración de software (documentos, código fuente, ejecutable, recursos y otros) debe quedar en el repositorio. Cada estudiante debe usar un usuario propio para representar su trabajo específico en el repositorio Git. Para la corrección solo se consideran los elementos de la configuración de la rama master. No se pueden realizar modificaciones en el repositorio luego de la fecha de cierre. La gestión y respaldos del repositorio es responsabilidad de los estudiantes.    
+
+Documentación
+
+La documentación principal debe incluirse en el archivo README.md en el directorio raíz del repositorio utilizando el estándar Markdown (https://github.github.com/gfm/). Las secciones del documento deben ser las mismas de la rúbrica de evaluación del obligatorio. Desde el documento principal se pueden incluir links a otros archivos del repositorio. 
+
+Identificación
+
+El nombre del repositorio debe contener el apellido de todos los estudiantes del equipo, en orden alfabético, sin caracteres especiales. Por ejemplo: gonzalez-rodriguez. Adicionalmente, el archivo README.md debe contener información identificatoria en el encabezado.
+
+Encabezado del archivo README.md
+Ejemplo
+Materia - Evento
+Código grupo - Docente:
+Estudiantes del equipo
+Fecha de entrega
+URL del repositorio
+Fundamentos de Ingeniería de Software - Obligatorio 1
+M4A - Docente: Alejandro Adorjan
+María González, Juan Rodríguez
+04/05/2020
+https://github.com/FIS-202003/ob1-gonzalez-rodriguez.git
+
+La versión final del archivo README.md debe integrarse a la rama master y subirse en formato pdf al sistema de gestión de la Universidad. 

@@ -1,0 +1,6 @@
+Fundamentos de Ingeniería de Software
+Proyecto obligatorio 202003:  Adopción de perros
+
+Se desea desarrollar un sistema para facilitar la adopción de perros.
+Se debe definir el modelo de información requerida (características de los perros en adopción, personas adoptantes y hogar) y las funciones para cumplir los procesos principales (crear ficha de perro en adopción, buscar perros en adopción, contacto y adopción).
+El sistema debe ser especificado teniendo en cuenta las normas para la tenencia responsable de animales y las buenas prácticas para adopción promovidas por veterinarios y comunidades relacionadas.
